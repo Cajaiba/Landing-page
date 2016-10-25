@@ -1,0 +1,28 @@
+body {
+	margin: 0;
+	font-family: helvetica;
+}
+
+.fullscreen {
+	background: purple;
+	width: 100vw;
+	height: 100vw;
+
+}
+
+h1 {
+	text-align: center;
+	text-decoration-color: white;
+	margin: 0 auto;
+}
+
+article {
+	max-width: 1000px;
+	margin: 0 auto;
+
+}
+
+.square {
+	display: inline: ;
+
+}
